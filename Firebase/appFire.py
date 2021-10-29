@@ -1,4 +1,5 @@
 import base64
+import pyrebase
 from config import firebaseConfig,auth,fire
 import streamlit as st
 from controle import *
